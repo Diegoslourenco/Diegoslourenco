@@ -1,8 +1,11 @@
 ### Hi there! I'm Diego Lourenço 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diegoslourenco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Diegoslourenco/)](https://www.linkedin.com/in/Diegoslourenco/)
+[![Gmail Badge](https://img.shields.io/badge/-Diegoslourenco-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:diego.lourenco15@gmail.com)
+
+
 System Analysis and Development at <a href="http://fatecsorocaba.edu.br/">FATEC</a>
-</br>Software Developer at <a href="https://www.gft.com">GFT</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</br>Software Developer at <a href="https://www.gft.com">GFT</a>
 
 ## Stats
 
@@ -23,12 +26,5 @@ System Analysis and Development at <a href="http://fatecsorocaba.edu.br/">FATEC<
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>  
 
-### Contacts:
-
-<div>
-<a href = "mailto:diego.lourenco15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/Diegoslourenco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br>
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/Diegoslourenco/Diegoslourenco)  ![](https://visitor-badge.glitch.me/badge?page_id=Diegoslourenco.Diegoslourenco)
