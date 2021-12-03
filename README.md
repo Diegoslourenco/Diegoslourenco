@@ -11,7 +11,7 @@ System Analysis and Development at <a href="http://fatecsorocaba.edu.br/">FATEC<
 
 <div>
 <a href="https://github.com/Diegoslourenco">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoslourenco&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoslourenco&layout=compact&langs_count=10&count_private=true&hide=css,html,jupyter%20notebook"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegoslourenco&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
   
